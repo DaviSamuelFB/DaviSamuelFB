@@ -2,7 +2,7 @@
 
 - 😄 Pronomes: he/him
 - 💻 Sou apaixonado por tecnologia e estou sempre em busca de adquirir e aprimorar os meus conhecimentos nessa área.
-- 📚 Atualmente estou estudando: HTML, CSS e JavaScript.
+- 📚 Desenvolvedor de software Full stack | java | JSF | SQL
 - 📝Sou formado em Gestão Comercial e atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 - 📍 Belo Horizonte/MG
 
